@@ -67,3 +67,5 @@ env.bak/
 venv.bak/
 venv_nrg/
 
+data/
+data_store_sales/

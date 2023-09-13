@@ -15,7 +15,7 @@ cd energy_data_hackdays_2023
 ```
 - Install a virtual environment:
 ```sh
-virtualenv -p /usr/bin/python3.10 venv_nrg
+virtualenv -p /usr/bin/python3.8 venv_nrg
 ```
 - Activate virtual environment:
 ```sh

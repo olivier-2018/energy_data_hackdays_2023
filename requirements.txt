@@ -4,4 +4,5 @@ numpy
 seaborn
 statsmodels
 ipykernel
+ipywidgets
 darts
